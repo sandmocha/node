@@ -5,8 +5,8 @@ module.exports = {
        debug: true,
        sessionSecret: 'dev_secret_key',
        google: {
-              clientID: '505024346753-r8gf74affu3c3rjfe31lloivn9r5nded.apps.googleusercontent.com',
-              clientSecret: 'UMBes4Zv0bHjgXgARwR6Xkny',
+              clientID: '947692126171-dul0p3op18eiaceencmh57ki6h2rthhf.apps.googleusercontent.com',
+              clientSecret: 'cdOK4s3M9kxu8U4jsoIILNrB',
               callbackURL: 'http://localhost:3000/oauth/google/callback'
        }
 
