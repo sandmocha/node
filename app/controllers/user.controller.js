@@ -13,7 +13,7 @@ exports.getUsers = (req, res, next) => {
               }
        });
 }
-
+    
 exports.create = (req, res, next) => {
        var user = new User(req.body);
        user.save((err) => {
